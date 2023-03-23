@@ -12,3 +12,6 @@ bak-xarm/
 .vscode/
 pcr/__pycache__/
 pcr/yolov5/
+*.jpg
+detectron2
+*.pth
