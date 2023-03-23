@@ -1,3 +1,8 @@
 certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
 typing_extensions==4.4.0
 wincertstore==0.2
+torch==1.13.0+cu117
+torchvision==0.14.0+cu117
+matplotlib==3.6.3
+Cython==0.29.33
+opencv-python==4.7.0.68
